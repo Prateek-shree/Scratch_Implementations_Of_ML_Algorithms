@@ -1,7 +1,7 @@
 
-=======================================================================================
+
 # Machine Learning Algorithms From Scratch
-=======================================================================================
+
 
 
 This repository contains implementations of core Machine Learning algorithms built entirely from scratch using Python and NumPy, 
@@ -9,7 +9,7 @@ without using pre-built model implementations from "scikit-learn".
 
 The focus of this repository is understanding how these algorithms work internally by implementing the complete logic manually.
 
---------------------------------------------------------------------------------------------------------------------------------
+
 
 # Implemented Algorithms
 
